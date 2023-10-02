@@ -11,3 +11,12 @@ commande pour faire un pull
 git pull [options] [nom_du_remote] [branche_distante]
 git pull
 git pull origin ma_branche_distante
+
+commande pour creer sur une branche 
+git branch nom_de_la_branche
+
+commande pour basculer sur une branche 
+git checkout ma-nouvelle-branche
+ 
+commande pour switcher
+git switch ma-nouvelle-branche
