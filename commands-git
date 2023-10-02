@@ -6,3 +6,8 @@ les 3 commande de push
 git push <dépôt distant> <branche locale>
 git push origin ma_branche_locale
 git push -u origin ma_branche_locale
+
+commande pour faire un pull
+git pull [options] [nom_du_remote] [branche_distante]
+git pull
+git pull origin ma_branche_distante
