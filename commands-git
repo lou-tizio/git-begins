@@ -1,0 +1,8 @@
+cloner un repository git clone <URL_du_dépôt> [<nom_du_dossier_de_destination>]
+git clone https://github.com/nom_utilisateur/nom_du_dépôt.git
+ 
+
+les 3 commande de push
+git push <dépôt distant> <branche locale>
+git push origin ma_branche_locale
+git push -u origin ma_branche_locale
